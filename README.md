@@ -40,3 +40,6 @@ Pour mener à bien ce projet, votre équipe doit :
 - Avoir une carte avec des zones chaudes utilisant n'importe quelle bibliothèque Python (Plotly ou autre).
 - Vous devriez au moins décrire les zones chaudes par jour de la semaine.
 - Comparer les résultats avec au moins deux algorithmes non supervisés comme KMeans et DBScan.
+
+# Résultats 📊
+Nous avons relevé des informations intéressantes à différents endroits et moments à New York (activités professionnelles ou de loisirs à Downtown Brooklyn, Williamsburg, aéroports, Upper/Lower Manhattan). Cette méthode est fonctionnelle sur notre jeu de données d'avril 2014 et pourrait être généralisable sur plusieurs mois voire années, afin de dégager des tendances. Par exemple, il est probable que les comportements de la population varient entre l'hiver et l'été, entraînant des changements dans les hotspots. En explorant différentes échelles temporelles, nous pourrions affiner davantage notre analyse et augmenter sa pertinence.
